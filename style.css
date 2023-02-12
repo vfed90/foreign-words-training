@@ -56,12 +56,12 @@ body {
 }
 
 .flip-card-front {
-  background-color: #da2865;
+  background-color: #ed4646;
   color: whitesmoke;
 }
 
 .flip-card-back {
-  background-color: #98e2e1;
+  background-color: #8553f9;
   color: black;
   transform: rotateX(180deg);
 }
@@ -158,7 +158,7 @@ progress {
 }
 
 .card.correct {
-  background-color: #98e2e1;
+  background-color: #8553f9;
 }
 
 .fade-out {
@@ -167,7 +167,7 @@ progress {
 }
 
 .card.wrong {
-  background-color: #f3a6be;
+  background-color: #ed4646;
   animation: shake 0.5s;
 }
 
